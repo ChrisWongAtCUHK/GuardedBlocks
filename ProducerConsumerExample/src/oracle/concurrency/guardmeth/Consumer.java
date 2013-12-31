@@ -4,7 +4,7 @@ import java.util.Random;
 import static java.lang.System.out;
 
 /**
- * @author WWC076
+ * @author Chris Wong
  * <p>
  *  Consumer
  * </p>

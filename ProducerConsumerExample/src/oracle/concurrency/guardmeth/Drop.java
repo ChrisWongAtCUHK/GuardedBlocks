@@ -1,7 +1,7 @@
 package oracle.concurrency.guardmeth;
 
 /**
- * @author WWC076
+ * @author Chris Wong
  * <p>
  *  Drop. The data is a series of text messages, which are shared through an object of type Drop
  * </o>

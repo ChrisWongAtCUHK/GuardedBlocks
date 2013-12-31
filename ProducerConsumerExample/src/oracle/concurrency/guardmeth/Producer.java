@@ -3,7 +3,7 @@ package oracle.concurrency.guardmeth;
 import java.util.Random;
 
 /**
- * @author WWC076
+ * @author Chris Wong
  * <p>
  * Producer
  * </p>

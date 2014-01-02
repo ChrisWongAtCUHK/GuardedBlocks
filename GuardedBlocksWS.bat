@@ -1,2 +1,2 @@
 @ECHO OFF
-start %ECLIPSE_HOME%\eclipse.exe -noSplash -data D:\GuardedBlocksWS\
+start %ECLIPSE_HOME%\eclipse.exe -noSplash -data %CONCURRENCY_HOME%\GuardedBlocksWS\
